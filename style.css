@@ -39,7 +39,8 @@ z-index: 300;
 .circles{
     width: 4rem;
     height: 4rem;
-    position: relative;
+    margin-left: -10rem;
+    margin-top: 10rem;
 }
 .circles div{
     animation: circle 1.5s cubic-bezier(0.5, 0, 0.5, 1) infinite ;
