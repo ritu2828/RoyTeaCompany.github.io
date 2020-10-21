@@ -22,6 +22,15 @@ align-items: center;
 transition: all 1s;
 z-index: 300;
 }
+
+.spinner-container p{
+    font-family: "Mulish";
+    font-size: 2rem;
+    margin-left: 5rem;
+    margin-top: 25rem;
+    font-weight: 500;
+}
+
 .display .spinner-container{
     opacity: 0;
     visibility: hidden;
